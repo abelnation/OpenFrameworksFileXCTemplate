@@ -8,5 +8,5 @@ XCode File Template for OpenFrameworks Objective C++ Class
 Copy `Objective C++` folder to:
 
 ```
-~/Library/Developer/Xcode/Templates/
+~/Library/Developer/Xcode/Templates/File Templates/
 ```
